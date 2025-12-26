@@ -4,7 +4,7 @@ A Laravel 12 real-time limit order exchange engine featuring financial-grade con
 
 ---
 
-## 🚀 Live Demo & Documentation
+## Live Demo & Documentation
 
 **Don't want to set up locally?** Use the live API running on production.
 
@@ -17,7 +17,7 @@ A Laravel 12 real-time limit order exchange engine featuring financial-grade con
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 * PHP 8.3+
 * Composer
 * MySQL 8.0+
@@ -44,7 +44,7 @@ php artisan key:generate
 
 ```
 
-**⚠️ Important:** Open `.env` and configure your Database and Pusher credentials:
+* Important:** Open `.env` and configure your Database and Pusher credentials:
 
 ```ini
 DB_DATABASE=virgosoft_exchange
