@@ -23,7 +23,7 @@ A Laravel 12 real-time limit order exchange engine featuring financial-grade con
 * MySQL 8.0+
 * Pusher Account (Free tier)
 
-## ⚙️ Setup Steps
+## Setup Steps
 
 ### 1. Installation
 Clone the repository and install PHP dependencies:
