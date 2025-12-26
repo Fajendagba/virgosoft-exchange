@@ -13,7 +13,7 @@ A Laravel 12 real-time limit order exchange engine featuring financial-grade con
 ### 1. Installation
 Clone the repository and install PHP dependencies:
 ```bash
-git clone [https://github.com/fajendagba/virgosoft-exchange.git](https://github.com/fajendagba/virgosoft-exchange.git)
+git clone [https://github.com/Fajendagba/virgosoft-exchange.git](https://github.com/Fajendagba/virgosoft-exchange.git)
 cd virgosoft-exchange
 composer install
 
