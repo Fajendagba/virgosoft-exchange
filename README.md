@@ -2,6 +2,21 @@
 
 A Laravel 12 real-time limit order exchange engine featuring financial-grade concurrency safety and atomic matching. Built with Laravel 12 and PHP 8.3.
 
+---
+
+## 🚀 Live Demo & Documentation
+
+**Don't want to set up locally?** Use the live API running on production.
+
+* **Base URL:** `https://api-virgosoft-exchange.mirrorlog.com`
+* **Postman Documentation:** `https://documenter.getpostman.com/view/18182167/2sBXVZpvBa`
+
+**Demo Credentials (Live):**
+* **Seller:** `alice@example.com` / `password`
+* **Buyer:** `bob@example.com` / `password`
+
+---
+
 ## 📋 Prerequisites
 * PHP 8.3+
 * Composer
@@ -13,7 +28,7 @@ A Laravel 12 real-time limit order exchange engine featuring financial-grade con
 ### 1. Installation
 Clone the repository and install PHP dependencies:
 ```bash
-git clone [https://github.com/Fajendagba/virgosoft-exchange.git](https://github.com/Fajendagba/virgosoft-exchange.git)
+git clone https://github.com/Fajendagba/virgosoft-exchange.git
 cd virgosoft-exchange
 composer install
 
